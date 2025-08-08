@@ -1,0 +1,1 @@
+export default function Page(){return <div className='container-prose section'><h1 className='h2'>Privatlivspolitik</h1><p>Kommer snart.</p></div>}
